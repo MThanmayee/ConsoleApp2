@@ -10,6 +10,8 @@ namespace ConsoleApp2
             Console.WriteLine("Very slow project");
             Console.WriteLine("Back to vs");
             Console.WriteLine("This is branch 1");
+
+            Console.WriteLine("This is merge update from vs");
         }
     }
 }
